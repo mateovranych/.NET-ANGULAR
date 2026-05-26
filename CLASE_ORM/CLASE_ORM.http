@@ -1,0 +1,6 @@
+@CLASE_ORM_HostAddress = http://localhost:5201
+
+GET {{CLASE_ORM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
